@@ -1,0 +1,1 @@
+INSERT INTO topic (title, body) VALUES('css', 'css is ...')
